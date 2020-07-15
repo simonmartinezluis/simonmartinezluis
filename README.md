@@ -1,4 +1,4 @@
-<img src="portadaGitHub3.png" alt="My cool logo"/>
+<img src="/portadaGitHub3.png" alt="My cool logo"/>
 # Luis Simon - @simonmartinezluis
 ## Tell me "Fonchi"
 <!--
